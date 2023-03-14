@@ -9,4 +9,4 @@ uma arquitetura simples de um webserver usando o Terraform e as boas práticas d
 3. Backend: API Rest rodando com API Gateway e Lambdas
 4. Database: Base de dados para armazenar os dados da aplicação
 
-<img src="" width="800px" height= "400px">
+<img src="https://github.com/Denise-Melo/Terraform-Cloud-AWS/blob/main/imagens/terraform.png" width="800px" height= "400px">
